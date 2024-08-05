@@ -1,0 +1,5 @@
+/mnt/data/voronoi/cgal-voronoi-cropping/test/build/CMakeFiles/main.dir
+/mnt/data/voronoi/cgal-voronoi-cropping/test/build/CMakeFiles/ALL_CGAL_TARGETS.dir
+/mnt/data/voronoi/cgal-voronoi-cropping/test/build/CMakeFiles/cgal_check_build_system.dir
+/mnt/data/voronoi/cgal-voronoi-cropping/test/build/CMakeFiles/edit_cache.dir
+/mnt/data/voronoi/cgal-voronoi-cropping/test/build/CMakeFiles/rebuild_cache.dir
